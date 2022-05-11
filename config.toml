@@ -1,4 +1,4 @@
-baseURL = 'https://www.josegustavomartins.eu'
+baseURL = 'https://gusmmm.github.io/teste_hugo/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'PaperMod'
