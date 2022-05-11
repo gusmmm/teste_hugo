@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://gusmmm.github.io/teste_hugo/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 May 2022 18:27:50 +0100</lastBuildDate><atom:link href="https://gusmmm.github.io/teste_hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Primeiro_post</title>
+      <link>https://gusmmm.github.io/teste_hugo/posts/primeiro_post/</link>
+      <pubDate>Wed, 11 May 2022 18:27:50 +0100</pubDate>
+      
+      <guid>https://gusmmm.github.io/teste_hugo/posts/primeiro_post/</guid>
+      <description>Este é o meu primeiro post</description>
+    </item>
+    
+  </channel>
+</rss>
